@@ -7,7 +7,7 @@ J1: Sends SYNC to Composite Video (V) - Not Common Setting<br>
 <b>J2: Sends SYNC to SYNC (S) - Most Common Setting</b>
 
 # PCB Fabrication
-Download GERBER Zip from above folder and upload it to your favorite PCB manufacturer
+Download the GERBER zip from above folder and upload it to your favorite PCB manufacturer
 
 Board Thickness: 0.8mm
 
