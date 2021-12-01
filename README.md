@@ -4,7 +4,7 @@ An AV breakout board to be used with the Tim Worthington N64 RGB mod. This board
 The breakout board also has two jumper pads - J1 and J2. These are used to route the SYNC to one of two pins. J2 will route SYNC to the SYNC pin of the AV Multiout. This will be the most common setting for most users. Even if you are using HDRV cables, you will likely still use this jumper setting. J1 is used if you need the SYNC to run to composite video (CV). This is not normally selected and is only used if you have previously disabled composite video for some reason.
 
 J1: Sends SYNC to Composite Video (V) - Not Common Setting<br>
-J2: Sends SYNC to SYNC (S) - Most Common Setting
+<b>J2: Sends SYNC to SYNC (S) - Most Common Setting</b>
 
 # PCB Fabrication
 Board Thickness: 0.8mm
