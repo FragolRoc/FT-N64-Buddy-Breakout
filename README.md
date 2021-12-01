@@ -11,5 +11,5 @@ Download GERBER Zip from above folder and upload it to your favorite PCB manufac
 
 Board Thickness: 0.8mm
 
-OshPark: 
+OshPark: https://oshpark.com/shared_projects/59MSjOS4 <br>
 Project Link: https://oshwlab.com/fragolroc/n64rgb-buddy-board
